@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.studybuddy.flashcard.FlashcardControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.989 s -- in com.studybuddy.flashcard.FlashcardControllerTest
